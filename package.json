@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kareem42/Background-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kareem42/Background-Generator/issues"
+  },
+  "homepage": "https://github.com/Kareem42/Background-Generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
